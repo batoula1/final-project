@@ -1,0 +1,14 @@
+main {
+    padding: 60px 0;
+}
+form {
+    width: 38%;
+    background-color: lightblue;
+    margin: 0 auto;
+    padding: 20px 25px;
+    border-radius: 15px;
+}
+
+input, select, textarea {
+    width: 520px;
+}
